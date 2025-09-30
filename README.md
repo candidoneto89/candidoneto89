@@ -24,9 +24,15 @@ I'm an electrical engineer at Vsoft (where I actually contribute) and in my free
 
 ## 📫 Get in touch
 
-[![Instagram](icons/Instagram.png)](http://instagram.com/cn7labs)
-[![LinkedIn](icons/LinkedIN.png)](https://www.linkedin.com/in/candidoneto89)
-[![Discord](icons/Discord.png)](https://discordapp.com/users/565528267046649856)
+<a href="http://instagram.com/cn7labs">
+  <img src="icons/Instagram.png" alt="Instagram" width="32" />
+</a>
+<a href="https://www.linkedin.com/in/candidoneto89">
+  <img src="icons/LinkedIN.png" alt="LinkedIn" width="32" />
+</a>
+<a href="https://discordapp.com/users/565528267046649856">
+  <img src="icons/Discord.png" alt="Discord" width="32" />
+</a>
 
 ### 🔗 Extra
 - [Blog](https://candidoneto.com)
