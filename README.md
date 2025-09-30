@@ -24,12 +24,12 @@ I'm an electrical engineer at Vsoft (where I actually contribute) and in my free
 
 ## 📫 Get in touch
 
-[![Instagram](icons/instagram.png)](http://instagram.com/cn7labs)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/candidoneto89)
-[![Discord](icons/discord.png)](https://discordapp.com/users/565528267046649856)
+[![Instagram](icons/Instagram.png)](http://instagram.com/cn7labs)
+[![LinkedIn](icons/LinkedIN.png)](https://www.linkedin.com/in/candidoneto89)
+[![Discord](icons/Discord.png)](https://discordapp.com/users/565528267046649856)
 
 ### 🔗 Extra
-https://candidoneto.com
-https://bento.me/candidoneto
-https://www.printables.com/@CandidoNeto_1982473
-https://grabcad.com/candido.neto-4
+- [Blog](https://candidoneto.com)
+- [Bento.me](https://bento.me/candidoneto)
+- [Printables profile](https://www.printables.com/@CandidoNeto_1982473)
+- [Grabcad profile](https://grabcad.com/candido.neto-4)
