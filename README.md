@@ -36,6 +36,5 @@ I'm an electrical engineer at Vsoft (where I actually contribute) and in my free
 
 ### 🔗 Extra
 - [Blog](https://candidoneto.com)
-- [Bento.me](https://bento.me/candidoneto)
 - [Printables profile](https://www.printables.com/@CandidoNeto_1982473)
 - [Grabcad profile](https://grabcad.com/candido.neto-4)
