@@ -20,7 +20,7 @@ I'm an electrical engineer at Vsoft (where I actually contribute) and in my free
 
 - [Designing My Own Macropad](https://candidoneto.com/portfolio/designing-my-own-macropad/)
 - [Getting better renders in Fusion 360](https://candidoneto.com/portfolio/getting-better-renders-in-fusion-360/)
-- [Yet anotther ESP32 Programmer](https://candidoneto.com/portfolio/yet-another-esp32-programmer/)
+- [Yet another ESP32 Programmer](https://candidoneto.com/portfolio/yet-another-esp32-programmer/)
 
 ## 📫 Get in touch
 
